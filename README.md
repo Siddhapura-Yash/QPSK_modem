@@ -137,7 +137,7 @@ gtkwave qpsk_modem.vcd
 
 ## Simulation Result :
 
-![QPSK Simulation Waveform](doc/qpsk_waveform.png)
+![QPSK Simulation Waveform](doc/QPSK_waveform.png)
 
 The waveform shows the phase transitions corresponding to the input symbol sequence, confirming correct QPSK modulation and demodulation.
 
